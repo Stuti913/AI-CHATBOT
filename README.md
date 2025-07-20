@@ -14,5 +14,5 @@ A modern, responsive AI chatbot powered by Groq's lightning-fast API with a beau
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/nova-ai-chatbot.git
+git clone https://github.com/Stuti913/ai-chatbot.git
 cd nova-ai-chatbot
